@@ -16,7 +16,7 @@
     "@spinnaker/core": "^0.14.2",
     "@uirouter/angularjs": "1.0.26",
     "@uirouter/core": "6.0.8",
-    "angular": "1.6.10",
+    "angular": "1.8.3",
     "angular-ui-bootstrap": "2.5.0",
     "lodash": "4.17.21",
     "ngimport": "0.6.1"
@@ -24,7 +24,7 @@
   "devDependencies": {
     "@spinnaker/eslint-plugin": "^3.0.0",
     "@spinnaker/scripts": "^0.2.2",
-    "@types/angular": "1.6.26",
+    "@types/angular": "1.8.4",
     "@types/angular-ui-bootstrap": "0.13.41",
     "@types/lodash": "4.14.64",
     "shx": "0.3.3",

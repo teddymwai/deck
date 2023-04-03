@@ -27,7 +27,7 @@
     "@spinnaker/styleguide": "^1.0.26",
     "@spinnaker/titus": "^0.5.14",
     "@uirouter/angularjs": "1.0.26",
-    "angular": "1.6.10",
+    "angular": "1.8.3",
     "graphql": "15.5.0",
     "jquery": "3.5.1",
     "lodash": "4.17.21",
